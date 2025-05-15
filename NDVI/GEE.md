@@ -5,11 +5,11 @@ Feb 2022 - https://code.earthengine.google.com/90281d9b4be530bb3c5abdaa96b4caa8 
 Mar 2022 - https://code.earthengine.google.com/23c53f285a802d638d5064bf7ab40dcc \
 Apr 2022 - https://code.earthengine.google.com/49ad92dc8257c2762c39b70796f4c544 \
 May 2022 - https://code.earthengine.google.com/c74a7030baf5342ef24badb31b8544d1 \
-Jun 2022 - https://code.earthengine.google.com/a35ccf89619c03e3570b4d91e21c47a8 \ 
+Jun 2022 - https://code.earthengine.google.com/a35ccf89619c03e3570b4d91e21c47a8 \
 Jul 2022 - https://code.earthengine.google.com/925f73e34b47e498e0938fa09d33aa1e \
-Aug 2022 - https://code.earthengine.google.com/2976d4bd53aac541c0c166a573d7ec37 \ 
+Aug 2022 - https://code.earthengine.google.com/2976d4bd53aac541c0c166a573d7ec37 \
 Sep 2022 - https://code.earthengine.google.com/f8bd2bcca2ed0ad1e20d711d53ac87b7 \
-Oct 2022 - https://code.earthengine.google.com/cab378db9b749e2638931f2707050265 \ 
+Oct 2022 - https://code.earthengine.google.com/cab378db9b749e2638931f2707050265 \
 Nov 2022 - https://code.earthengine.google.com/4063e3ae7e39249053c7e16d3f0a9e63 \
 Dec 2022 - https://code.earthengine.google.com/68c4960a737f1b15a837d59c6bc470e8 
 
@@ -30,7 +30,7 @@ Jan 2024 - https://code.earthengine.google.com/63c47a0bde694b6f6d62dbf049ec7ec9 
 Feb 2024 - https://code.earthengine.google.com/06aca3fb7353bdc8574f4dff5092aac7 \
 Mar 2024 - https://code.earthengine.google.com/495ee37dd138579407eff1b7a094d6ed \
 Apr 2024 - https://code.earthengine.google.com/051ed2644c53ff1338b327cf3c397e97 \
-May 2024 - https://code.earthengine.google.com/19d5c1fcea8149c4bd6e802310ca987a \ 
+May 2024 - https://code.earthengine.google.com/19d5c1fcea8149c4bd6e802310ca987a \
 Jun 2024 - https://code.earthengine.google.com/e50827220788f259d726ea92e6017e97 \
 Jul 2024 - https://code.earthengine.google.com/fc51afd91a6297da8b9239abd14a55d7 \
 Aug 2024 - https://code.earthengine.google.com/51d91fbe92cebd5ec06e7a58c92f87d1 \
